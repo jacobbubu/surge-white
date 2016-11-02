@@ -1,6 +1,7 @@
 # GFW Whitelist for Surge config
 
 ```
+npm i
 npm run build
 ```
 
