@@ -7,6 +7,4 @@ node_modules
 # Optional npm cache directory
 .npm
 
-surge-rules.txt
-
 yarn.lock
