@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "coffee index.coffee > surge-rules.txt"
+  },
+  "dependencies": {
+    "coffee-script": "^1.11.1"
+  }
+}
