@@ -8,3 +8,5 @@ node_modules
 .npm
 
 surge-rules.txt
+
+yarn.lock
